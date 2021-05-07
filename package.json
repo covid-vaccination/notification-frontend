@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "cowin-notification-frontend",
+=======
+  "name": "notification",
+>>>>>>> c8eca15aab7169f331fb45e21942953f411c240a
   "homepage": "https://covid-vaccination.github.io/notification",
   "version": "0.1.0",
   "private": true,
