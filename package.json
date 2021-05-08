@@ -1,6 +1,6 @@
 {
   "name": "cowin-notification-frontend",
-  "homepage": "http://covid-vaccination.github.io/notification-frontend",
+  "homepage": "https://notification.subhu.in/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
